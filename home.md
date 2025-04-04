@@ -1,8 +1,6 @@
-## Open-Source Hardware Design
+**Openjar Project** is an open-source Hardware Design.
 
-Explore the project on [GitHub](https://github.com/dmalawey/OpenJar)
-
-**Our Mission**  
+## Mission  
 We aim to make open hardware as accessible and collaborative as open-source software. Our mission is to:  
 - Encourage sustainability by repurposing common items, such as mason jars.  
 - Provide parametric designs for flexibility and customization.  
@@ -25,32 +23,30 @@ We aim to make open hardware as accessible and collaborative as open-source soft
 
 ---
 
-## For Makers:
+## Audience
+Who is this project for?  
+
+► Makers:
 1. Standardized – Compatible with standard mason jars.  
 2. Functional – Watertight or airtight with appropriate post-processing.  
 3. Efficient – Prints support-free on basic desktop 3D printers.
 
-## For Users:
+► Users:
 1. Food-Safe – Use ABS plastic for food-related applications.  
 2. Dishwasher-Safe – Durable when produced with ABS materials.
 
-## For Designers:
+► Designers:
 1. Versatile – Includes free STL files, SOLIDWORKS models, and STEP files.  
 2. Customizable – Fully parametric designs for easy modification.
 
 ---
 
-## Tutorials for Designers
 
-Expand your skill set with these resources:  
-1. [Edit Parametric Parts in SolidWorks](https://grabcad.com/tutorials/how-to-edit-parametric-parts-solidworks)  
-2. [Design for 3D Printing – Part 1](https://youtu.be/HYnm2MD0Nks)  
-3. [Design for 3D Printing – Part 2](https://youtu.be/LMyhFwJscI0)
 
 ---
 
-## Why OpenJar?
-
+## Why?
+We want to impact the world and we started with a humble jar.  Why?  Because simple designs leave space for innovations in the design process.  There is nothing new about the jar and everything new about the collaboration, documentation methods, and intentionality of the project.
 This project aims to transform open-source hardware by focusing on:  
 - Parametric models for flexibility.  
 - Comprehensive documentation to improve collaboration.  
@@ -87,14 +83,14 @@ For food storage, consider using a silicone rubber seal such as [this one](https
 
 ---
 
-## Jar Sizes  
+## Sizes  
 Ensure the jar mouth adheres to standard dimensions.  
 ![Jar sizes](img/img_jarSizes.jpg ':class=image-50 center')  
 *Figure: Jar size options (1/2 cup and 2 cup).*
 
 ---
 
-## Spray Nozzle Setup  
+## Spray-Nozzle
 This two-part design requires cutting the dip tube to approximately 130 mm.  
 ![Dip tube length](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/1789e0103e3ff3923c5b252176b52948/original.jpg ':class=image-50 center')  
 *Figure: Spray assembly with dip tube.*
@@ -109,16 +105,12 @@ This two-part design requires cutting the dip tube to approximately 130 mm.
 
 # Tutorials
 
-This collection of tutorials aims to enhance your skills and support your work with the OpenJar project.
+We started with one tutorial on parametric designs, and hope to produce more over time.  If you have any requests, leave a comment in github or on the David Malawey discord!  This collection of tutorials aims to enhance your skills and support your work with the OpenJar project.
 
----
-
-![Tutorial Snapshot](https://d2t1xqejof9utc.cloudfront.net/pictures/files/245626/original.png?1683986640 ':class=image-50 center')  
-*Figure: Snapshot of a tutorial for modifying a parametric part published on GrabCAD.*
-
----
-
-## Tutorials
+>
+> ![Tutorial Snapshot](https://d2t1xqejof9utc.cloudfront.net/pictures/files/245626/original.png?1683986640 ':class=image-50 center')  
+> *Figure: Snapshot of a tutorial for modifying a parametric part published on GrabCAD.*
+>
 
 1. [Edit Parametric Parts in SolidWorks](https://grabcad.com/tutorials/how-to-edit-parametric-parts-solidworks) – Learn how to modify parametric parts using this detailed tutorial.
 2. [Design for 3D Printing - Part 1](https://youtu.be/HYnm2MD0Nks) – Understand the fundamentals of creating parts optimized for 3D printing.
@@ -131,7 +123,7 @@ OpenJar provides:
 - Comprehensive Documentation: Tutorials and resources to help you create, customize, and contribute.  
 - Collaboration Opportunities: Join a growing community of designers and makers.
 
-### Join the Movement  
-Explore the designs, review the tutorials, and connect with a community that is redefining open-source hardware. Together, we can empower hardware designers and push the boundaries of what is possible.
+### Join
+Explore the designs, review the tutorials, and connect with a community that is redefining open-source hardware. Together, we can empower hardware designers and push the boundaries of what is possible. Welcome to OpenJar—where innovation meets sustainability.
 
-Welcome to OpenJar—where innovation meets sustainability.
+**► [Discord Link Here](https://discord.gg/Napn9mhd43)**
