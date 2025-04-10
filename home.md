@@ -6,6 +6,8 @@ We aim to make open hardware as accessible and collaborative as open-source soft
 - Provide parametric designs for flexibility and customization.  
 - Develop a robust open-source ecosystem where contributions are straightforward and impactful.
 
+![banner image](img/banner2.jpg)
+
 ---
 
 ## More Open Projects
